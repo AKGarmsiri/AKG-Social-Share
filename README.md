@@ -1,4 +1,4 @@
-AKG Social Share Plugin
+<h1>AKG Social Share Plugin</h1>
 AKG Social Share is a WordPress plugin that allows you to easily add social media sharing buttons to your posts and pages. With AKG Social Share, you can choose which social media platforms to include, and you can place the sharing buttons anywhere on your site using a shortcode.
 
 Installation
